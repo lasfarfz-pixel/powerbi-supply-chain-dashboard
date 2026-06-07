@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project presents an interactive Power BI dashboard designed to analyze key supply chain performance metrics. The dashboard provides insights into inventory management, product sales, supplier contribution, and transportation efficiency.
+This project presents an interactive Power BI dashboard developed to monitor inventory performance, supplier contribution, transportation efficiency, and product sales. The dashboard enables data-driven decision-making through KPI tracking and operational performance analysis.
 
 ## Dashboard Preview
 
@@ -30,6 +30,15 @@ This project presents an interactive Power BI dashboard designed to analyze key 
 ### Supplier Analysis
 
 * Products Sold by Supplier
+
+## Tools & Technologies
+
+- Power BI
+- Microsoft Excel
+- Data Visualization
+- Supply Chain Analytics
+- Business Intelligence
+- KPI Reporting
 
 ## Key Findings & Recommendations
 
