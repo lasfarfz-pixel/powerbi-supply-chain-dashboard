@@ -6,7 +6,7 @@ This project presents an interactive Power BI dashboard designed to analyze key 
 
 ## Dashboard Preview
 
-![Supply Chain Dashboard](supply-chain-dashboard.png)
+![Supply Chain Dashboard](supply-chain.png)
 
 ## Key Metrics
 
