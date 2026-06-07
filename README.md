@@ -31,4 +31,9 @@ This project presents an interactive Power BI dashboard designed to analyze key 
 
 * Products Sold by Supplier
 
+## Author
+
+**Fatima-Ezzahra Lasfar**
+
+
 
